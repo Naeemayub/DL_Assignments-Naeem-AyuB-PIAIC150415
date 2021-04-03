@@ -1,0 +1,4 @@
+The data is no properly proportionate, only .17% is fraud data so if we compile as it is
+the result does not well. 
+
+so i have reduce the no fraud data for training the model.
